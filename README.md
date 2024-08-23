@@ -1,4 +1,4 @@
- #Descripción
+ # #Descripción
 Tal y como lo hemos trabajado en las sesiones anteriores, el portafolio constituye una gran
 herramienta para mostrar a otros la forma en la cual desarrollas tus trabajos y los resultados
 que se obtienen a partir de esto.
