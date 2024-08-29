@@ -6,3 +6,4 @@ que se obtienen a partir de esto.
 Es por ello que, en este desafío, trabajamos en los aspectos estructurales de tu portafolio
 virtual, con el fin de poder contar con una planificación para su desarrollo posterior. Para ello,
 es necesario que cumplas con los requerimientos que se plantean a continuación.
+--------------------------------------------------------------------------------------------------------------------------
